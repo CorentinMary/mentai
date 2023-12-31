@@ -1,2 +1,3 @@
-artifacts/*
 *.ipynb
+__*
+*.json
